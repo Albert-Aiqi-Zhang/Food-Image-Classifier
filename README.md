@@ -72,5 +72,5 @@ Finally, I got datasets ten times the raw data. I applied a convolutional neural
 
 This time, the validation accuracy is about 55% at last, and the test accuracy is 57%. This looks pretty good, compared with the previous model only using CNN. This indicates that the data augmentation can significantly make the image classification model better, especially when you only have a small dataset.
 
-Hopefully you enjoyed my Food Image Classifier. As I said, this is not only a machine learning project, but also a present for all gourmets!
+Hopefully you enjoyed my Food Image Classifier. As I have said, this is not only a machine learning project, but also a present for all gourmets!
 
