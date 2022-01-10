@@ -74,3 +74,5 @@ This time, the validation accuracy is about 55% at last, and the test accuracy i
 
 Hopefully you enjoyed my Food Image Classifier. As I have said, this is not only a machine learning project, but also a present for all gourmets!
 
+PS: I also tried a k-cross validation technqiue, which makes both training and validation accuracy very high. However, the test accuracy is still low, so I gave up this idea.
+
