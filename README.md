@@ -6,7 +6,7 @@ Welcome to the world of Gourmets! In this project, I implemented a delicious foo
 OK, that's a joke. I learnt deep learning last year, and I hope I can do something interesting about image recognition. I found many people did great job in MNITS and CiFar classification, but I prefer cooking more. Hence, I decided to implement a food image classifier on my own.
 
 ## 1. Preparation
-As a preparation, I downloaded 10 different genres of food, each of which has about 100 pictures, with a Google Custom Search API. Actually selection of ten food is tricky. I have to choose those whose appearances are not similar. For example, I cannot distinguish dried chicken with karaage(唐揚げ) at all, so I think my classifier cannot, either. As a result, I choose the following food to "feed" my model:
+As a preparation, I downloaded 10 different genres of food, each of which has about 100 pictures, with a Google Custom Search API. Actually selection of ten food is tricky. I have to choose those whose appearances are not similar. For example, I cannot tell the difference between dried chicken and karaage(唐揚げ) at the first glance, so I think my classifier cannot, either. As a result, I choose the following food to "feed" my model:
 
 (0) beef steak
 (1) hamburger
